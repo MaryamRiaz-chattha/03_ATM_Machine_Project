@@ -1,0 +1,13 @@
+It's just a notes 
+.........Project Setup...............
+1:create a index.ts,then create json file with command tsc --init
+then created package Json file with command npm init
+2:few changes in ts config file 
+   Es2022
+   Commonjs is replaced with NodeNext
+3:then made few changes in package json file
+type:module
+why we use module?
+ Ans:it is used to divide the code into pieces so easy to read or access .Each piece of code is isolated .CAn export and import.
+ 
+
