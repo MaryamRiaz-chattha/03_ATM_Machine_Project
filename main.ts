@@ -4,7 +4,7 @@ import inquirer from "inquirer"
 let myBalance = 10000;
 
 //My Password Of Atm Machine
-let mypin = 2303
+let mypin = 2303;
 
 //Code for My Atm  Password
 
