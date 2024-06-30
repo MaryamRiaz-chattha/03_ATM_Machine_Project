@@ -65,26 +65,3 @@ if (Password.pin === mypin) {
 else {
     console.log("Kindly enter correct Pin");
 }
-/*/code for Fast Cast
-if(OperationAns.askOperation === "Fast Cash"){
-let fastcash =await inquirer.prompt([{
-    message:"Select any one option ",
-    type:"list",
-    name:"cashdraw",
-    choices:["5000","1000","1500","20000"]
-
-}]);
-if(fastcash.cashdraw -= myBalance){
-    myBalance -= Withdrawcash.amountfastcash
-    
-    console.log(`Congrate Your Amount Is Sucessfully Withdraw.`)
-    console.log(`Your Remaing Balance is ${myBalance} `);
-}
-}
-
-
-//bracket of password
-}
-else{
-    console.log("Incorrect Password")}
-     */ 
