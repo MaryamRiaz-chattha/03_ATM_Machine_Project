@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 //My Balance In Account 
 let myBalance = 10000;
