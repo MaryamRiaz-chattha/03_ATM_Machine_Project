@@ -10,3 +10,5 @@ Welcome to Maryam's ATM Machine simulation. This project is a simple Node.js app
 - **Check Balance**: Enables users to check their current account balance.
 
 ## Run Project using command
+
+npx mrc03_atm_machineproject
